@@ -1,7 +1,7 @@
 import br.com.alura.tdd.modelo.Funcionario;
 import br.com.alura.tdd.service.BonusService;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
